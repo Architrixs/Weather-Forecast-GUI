@@ -1,3 +1,5 @@
+#! /usr/bin/python3
+
 from matplotlib import pyplot as plt
 from matplotlib import dates
 from pyowm_helper import get_temperature
